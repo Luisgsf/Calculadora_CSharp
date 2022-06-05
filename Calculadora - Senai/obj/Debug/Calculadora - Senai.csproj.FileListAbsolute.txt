@@ -1,0 +1,13 @@
+C:\ProjetosVS\Calculadora - Senai\bin\Debug\Calculadora - Senai.exe.config
+C:\ProjetosVS\Calculadora - Senai\bin\Debug\Calculadora - Senai.exe
+C:\ProjetosVS\Calculadora - Senai\bin\Debug\Calculadora - Senai.pdb
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora - Senai.csproj.AssemblyReference.cache
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora - Senai.csproj.SuggestedBindingRedirects.cache
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora___Senai.Properties.Resources.resources
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora - Senai.csproj.GenerateResource.cache
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora - Senai.csproj.CoreCompileInputs.cache
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora - Senai.exe
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora - Senai.pdb
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora___Senai.FormCalculadora.resources
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora___Senai.FormMenu.resources
+C:\ProjetosVS\Calculadora - Senai\obj\Debug\Calculadora___Senai.FormIMC.resources
